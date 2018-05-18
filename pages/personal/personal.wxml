@@ -1,0 +1,12 @@
+<view id="header">
+    <view class="content">
+    	<image src="{{userInfo.avatarUrl}}"></image>
+        <view class="nickname">您好，{{userInfo.nickName}}</view>
+        <view class="orther">{{userInfo.province}}</view>
+    </view>
+</view>
+<view class='index-container'>
+<view class="btn" bindtap='gonews'> 
+  <text>继续梭哈</text>
+   </view>
+   </view>

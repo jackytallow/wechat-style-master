@@ -1,0 +1,14 @@
+{
+  "pages":[
+    
+    "pages/personal/personal"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "首页",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": true
+  }
+}
